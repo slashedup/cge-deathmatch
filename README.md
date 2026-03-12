@@ -42,7 +42,7 @@ No one can acces your locker, its only for you.
 
 
 
-How to run it?
+# How to run it?
 You need to install plugins first.
 pawncmd,
 pawnraknet,
@@ -54,3 +54,6 @@ discord connector
 (OPENMP VERSIONS)
 
 This server based in openmp you must install all of compoments
+
+# release: https://github.com/slashedup/cge-deathmatch/releases/tag/cge
+
